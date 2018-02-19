@@ -51,7 +51,7 @@ class Part extends Component {
 							<br />
 							<br />
 							<a href="https://github.com/papokiller">
-								<h1>this code is developed in react native and ruby on rails sucks if you want to refactor press click here </h1>
+								<h1>this code is developed in react and ruby on rails sucks if you want to refactor press click here </h1>
  							</a>
 						</div>
 
