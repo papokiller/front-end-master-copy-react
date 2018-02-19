@@ -1,1 +1,1 @@
-export const server = 'http://159.65.167.160:3000'
+export const server = 'https://frontendmasters-api.babilonia.fun'
