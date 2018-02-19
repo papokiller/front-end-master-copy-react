@@ -25,7 +25,7 @@ export default class Course extends Component {
 			      </div>
 			   </div>
 			   <a className="thumbnail" href="/courses/1/episodes">
-			    <img style={{position: 'relative', left: '-90px'}} src="http://www.tallon4.es/wp-content/uploads/2015/01/its-free.png" className="lazyload lazyloaded"/>
+			    <img style={{position: 'relative', left: '-90px'}} src="/its-free.png" className="lazyload lazyloaded"/>
 			   </a>
 			   <div className="progress">
 			      <div className="highlight" style={{width: '0%'}}></div>
